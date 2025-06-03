@@ -54,3 +54,10 @@ A C++ CLI application and a responsive single-page website.
 - Created `test_calc.cpp` to verify arithmetic functions
 - Drafted CLI prototype (`cli_calc.cpp`) for single‐expression calculation
 
+
+---
+
+## 📅 Today’s Progress (2025-06-02)
+
+- Learned pass-by-reference vs. pass-by-value (swapByValue vs. swapByRef)  
+- Implemented function overloading for `add(int,int)` and `add(double,double)`  
